@@ -1,0 +1,14 @@
+{
+  "item.mccourse.cobalt_ingot": "코발트 주괴",
+  "item.mccourse.cobalt_nugget": "코발트 조각",
+  "item.mccourse.raw_cobalt": "코발트 원석",
+
+
+  "block.mccourse.cobalt_block": "코발트 블록",
+  "block.mccourse.cobalt_ore": "코발트 광석",
+  "block.mccourse.deepslate_cobalt_ore": "심층암 코발트 광석",
+  "block.mccourse.raw_cobalt_block": "코발트 원석 블록",
+
+
+  "itemGroup.coursemodtab": "앰-씨코오-스 모드"
+}
